@@ -1,0 +1,774 @@
+﻿Disease,Department,arabic_disease
+postoperative infection,General Surgery,العدوى بعد العملية الجراحية
+cystitis,Urology,التهاب المثانة
+urethral disorder,Urology,اضطراب مجرى البول
+sciatica,Neurology,عرق النسا
+spondylolisthesis,Orthopedics,الفقرة الفقارية
+social phobia,Psychiatry,الرهاب الاجتماعي
+hormone disorder,Endocrinology,اضطراب الهرمونات
+dengue fever,Infectious Disease,حمى حمى الضنك
+myoclonus,Neurology,عضلي
+intestinal malabsorption,Gastroenterology,سوء الامتصاص المعوي
+astigmatism,Ophthalmology,الاستجماتيزم
+open wound of the cheek,Plastic Surgery,الجرح المفتوح للخد
+asperger syndrome,Psychiatry,متلازمة أسبرجر
+whooping cough,Pediatrics,السعال الديكي
+pulmonary congestion,Pulmonology,الازدحام الرئوي
+fibromyalgia,Rheumatology,فيبروميالغيا
+hyponatremia,Endocrinology,نقص صوديوم الدم
+hiatal hernia,Gastroenterology,فتق الحجاب
+nasal polyp,ENT,polyp الأنف
+scleritis,Ophthalmology,التهاب الصلبة
+fracture of the neck,Orthopedics,كسر الرقبة
+complex regional pain syndrome,Neurology,متلازمة الألم الناحي المركّب
+acute glaucoma,Ophthalmology,الجلوكوما الحادة
+peripheral nerve disorder,Neurology,اضطراب الأعصاب المحيطية
+vaginitis,Gynecology,التهاب المهبل
+vitamin d deficiency,Endocrinology,فيتامين (د) نقص
+injury to the shoulder,Orthopedics,إصابة في الكتف
+developmental disability,Pediatrics,الإعاقة التنموية
+fracture of the finger,Orthopedics,كسر الإصبع
+fracture of the vertebra,Orthopedics,كسر الفقرة
+fibroadenoma,Oncology,الورم الليفي
+poisoning due to antidepressants,Emergency Medicine,التسمم بسبب مضادات الاكتئاب
+tuberculosis,Infectious Disease,مرض الدرن
+liver cancer,Oncology,سرطان الكبد
+mastoiditis,ENT,التهاب الخبل
+parasitic disease,Infectious Disease,مرض الطفيليات
+subacute thyroiditis,Endocrinology,التهاب الغدة الدرقية تحت الحاد
+hyperlipidemia,Cardiology,فرط شحميات الدم
+urinary tract infection,Urology,عدوى المسالك البولية
+parkinson disease,Neurology,مرض باركنسون
+transient ischemic attack,Neurology,هجوم نقص تروية عابر
+deep vein thrombosis (dvt),Vascular Surgery,تخثر الوريد العميق (DVT)
+scarlet fever,Pediatrics,حمى القرمزي
+open wound of the knee,Orthopedics,الجرح المفتوح للركبة
+crushing injury,Trauma Surgery,إصابة سحق
+intracranial hemorrhage,Neurosurgery,نزيف داخل الجمجمة
+osteoarthritis,Rheumatology,هشاشة العظام
+diabetes insipidus,Endocrinology,مرض السكري insipidus
+pelvic inflammatory disease,Gynecology,مرض التهاب الحوض
+foreign body in the ear,ENT,الجسم الغريب في الأذن
+graves disease,Endocrinology,مرض جريفز
+intertrigo (skin condition),Dermatology,intertrigo (حالة الجلد)
+callus,Dermatology,الكالس
+hypercalcemia,Endocrinology,فرط كالسيوم الدم
+chronic ulcer,Dermatology,قرحة مزمنة
+polymyalgia rheumatica,Rheumatology,Polymyalgia Rheumatica
+dumping syndrome,Gastroenterology,متلازمة الإغراق
+hypothermia,Emergency Medicine,انخفاض حرارة الجسم
+drug withdrawal,Psychiatry,انسحاب المخدرات
+trichomonas infection,Gynecology,عدوى Trichomonas
+abscess of the pharynx,ENT,خراج البلعوم
+placenta previa,Obstetrics,كوالا سابقا
+vitreous hemorrhage,Ophthalmology,النزف الزجاجي
+idiopathic painful menstruation,Gynecology,الحيض المؤلم مجهول السبب
+hydronephrosis,Urology,هيدرونيفورم
+von willebrand disease,Hematology,مرض فون ويلبراند
+endocarditis,Cardiology,التهاب الشغاف
+obesity,Endocrinology,بدانة
+glaucoma,Ophthalmology,الجلوكوما
+idiopathic absence of menstruation,Gynecology,الغياب مجهول السبب في الحيض
+atrial fibrillation,Cardiology,رجفان أذيني
+induced abortion,Gynecology,الإجهاض المستحث
+bladder cancer,Urology,سرطان المثانة
+normal pressure hydrocephalus,Neurosurgery,استسقاء الضغط الطبيعي
+herpangina,Pediatrics,هيربانغينا
+bone spur of the calcaneous,Orthopedics,تحفيز العظام من العناء
+gastroparesis,Gastroenterology,المعدة
+avascular necrosis,Orthopedics,نخر الأوعية الدموية
+eye alignment disorder,Ophthalmology,اضطراب محاذاة العين
+fracture of the patella,Orthopedics,كسر الرضفة
+iron deficiency anemia,Hematology,فقر الدم نقص الحديد
+varicose veins,Vascular Surgery,توسع الأوردة
+pregnancy,Obstetrics,الحمل
+adrenal adenoma,Endocrinology,الورم الحميد الغدة الكظرية
+scar,Plastic Surgery,ندبة
+schizophrenia,Psychiatry,فُصام
+testicular disorder,Urology,اضطراب الخصية
+hirsutism,Endocrinology,هرمي
+osteochondroma,Orthopedics,Osteochondroma
+jaw disorder,Dentistry,اضطراب الفك
+open wound of the mouth,Dentistry,جرح مفتوح من الفم
+hemangioma,Dermatology,ورم وعائي
+chalazion,Ophthalmology,برَدة
+mucositis,Dentistry,التهاب الغشاء المخاطي
+sjogren syndrome,Rheumatology,Shogren Sundrome
+frostbite,Emergency Medicine,قضمة الصقيع
+cardiac arrest,Cardiology,توقف القلب
+fracture of the pelvis,Orthopedics,كسر الحوض
+vitreous degeneration,Ophthalmology,تنكس الزجاجية
+premenstrual tension syndrome,Gynecology,متلازمة التوتر ما قبل الحيض
+chronic pain disorder,Neurology,اضطراب الألم المزمن
+thyroid nodule,Endocrinology,عقيدات الغدة الدرقية
+alcoholic liver disease,Gastroenterology,مرض الكبد الكحولي
+dislocation of the knee,Orthopedics,خلع الركبة
+anal fissure,Colorectal Surgery,الشرج الشرج
+subdural hemorrhage,Neurosurgery,النزيف تحت الجافية
+seborrheic dermatitis,Dermatology,التهاب الجلد الدبابي
+tricuspid valve disease,Cardiology,مرض صمام Tricuspid
+osteoporosis,Endocrinology,هشاشة العظام
+sickle cell anemia,Hematology,فقر الدم المنجل
+atrophic vaginitis,Gynecology,التهاب المهبل الضمري
+fracture of the skull,Neurosurgery,كسر الجمجمة
+yeast infection,Gynecology,عدوى الخميرة
+prostatitis,Urology,التهاب البروستاتا
+pneumoconiosis,Pulmonology,الرئوي
+tendinitis,Orthopedics,التهاب الأوتار
+gout,Rheumatology,النقرس
+insect bite,Dermatology,لدغة الحشرات
+retinopathy due to high blood pressure,Ophthalmology,اعتلال الشبكية بسبب ارتفاع ضغط الدم
+seasonal allergies (hay fever),Allergy,الحساسية الموسمية (حمى القش)
+stricture of the esophagus,Gastroenterology,تضيق المريء
+ear wax impaction,ENT,انحراف الشمع الأذن
+neonatal jaundice,Pediatrics,اليرقان الوليدي
+poisoning due to gas,Emergency Medicine,التسمم بسبب الغاز
+laryngitis,ENT,التهاب الحنجرة
+muscular dystrophy,Neurology,ضمور العضلات
+menopause,Gynecology,سن اليأس
+fetal alcohol syndrome,Pediatrics,متلازمة الكحول الجنين
+vitamin b12 deficiency,Hematology,نقص فيتامين B12
+envenomation from spider or animal bite,Emergency Medicine,توضيح من العنكبوت أو لدغة الحيوانات
+chorioretinitis,Ophthalmology,التهاب المشيمية
+conduct disorder,Psychiatry,سلوك السلوك
+thrombophlebitis,Vascular Surgery,التخثر
+chlamydia,Gynecology,الكلاميديا
+hypergammaglobulinemia,Immunology,Hypergammaglobulinemia
+dislocation of the vertebra,Orthopedics,خلع الفقرات
+cholesteatoma,ENT,سرطان الكوليستور
+poisoning due to sedatives,Emergency Medicine,التسمم بسبب المهدئات
+pelvic fistula,Gynecology,ناسور الحوض
+tracheitis,Pulmonology,التهاب القصبة الهوائية
+dislocation of the finger,Orthopedics,خلع الإصبع
+autonomic nervous system disorder,Neurology,اضطراب الجهاز العصبي اللاإرادي
+anxiety,Psychiatry,قلق
+premature ovarian failure,Gynecology,فشل المبيض المبكر
+ear drum damage,ENT,تلف أسطوانة الأذن
+acute pancreatitis,Gastroenterology,التهاب البنكرياس الحاد
+eating disorder,Psychiatry,اضطراب الأكل
+juvenile rheumatoid arthritis,Rheumatology,الأحداث التهاب المفاصل
+varicocele of the testicles,Urology,دوالي الخصيتين
+vaginal yeast infection,Gynecology,التهاب المهبل الفطري
+paroxysmal supraventricular tachycardia,Cardiology,عدم انتظام دقات القلب فوق البطيني paroxysmal
+skin pigmentation disorder,Dermatology,اضطراب تصبغ الجلد
+brachial neuritis,Neurology,التهاب الأعصاب العضدي
+fracture of the facial bones,Plastic Surgery,كسر عظام الوجه
+necrotizing fasciitis,General Surgery,نخر التهاب اللفافة
+female infertility of unknown cause,Gynecology,العقم الإناث لسبب غير معروف
+insulin overdose,Endocrinology,جرعة زائدة من الأنسولين
+chronic kidney disease,Nephrology,مرض الكلى المزمن
+scabies,Dermatology,الجرب
+lymphedema,Vascular Surgery,الوذمة اللمفاوية
+anemia due to chronic kidney disease,Nephrology,فقر الدم بسبب مرض الكلى المزمن
+viral exanthem,Dermatology,exanthem الفيروسي
+hypothyroidism,Endocrinology,قصور الغدة الدرقية
+pulmonic valve disease,Cardiology,مرض الصمام الرئوي
+stenosis of the tear duct,Ophthalmology,تضيق القناة المسيل للدموع
+psychotic disorder,Psychiatry,اضطراب ذهاني
+irritable bowel syndrome,Gastroenterology,متلازمة القولون المتهيّج
+pain disorder affecting the neck,Orthopedics,اضطراب الألم الذي يؤثر على الرقبة
+open wound of the finger,Orthopedics,فتح الجرح من الإصبع
+ganglion cyst,Orthopedics,كيس العقدة
+drug abuse (barbiturates),Psychiatry,تعاطي المخدرات (barbiturates)
+deviated nasal septum,ENT,حاجز الأنف المنحرف
+ulcerative colitis,Gastroenterology,التهاب القولون التقرحي
+pancreatic cancer,Oncology,سرطان البنكرياس
+trigger finger (finger disorder),Orthopedics,الزناد إصبع (اضطراب الإصبع)
+coronary atherosclerosis,Cardiology,تصلب الشرايين التاجية
+atonic bladder,Urology,atonic المثانة
+acute respiratory distress syndrome (ards),Pulmonology,متلازمة الضيق التنفسي الحاد (ARDS)
+hydatidiform mole,Obstetrics,الخلد hydatidiform
+pulmonary fibrosis,Pulmonology,التليف الرئوي
+pityriasis rosea,Dermatology,pityriasis الوردية
+itching of unknown cause,Dermatology,حكة قضية غير معروفة
+migraine,Neurology,صداع نصفي
+eczema,Dermatology,الأكزيما
+cerebral edema,Neurosurgery,وذمة دماغية
+nerve impingement near the shoulder,Orthopedics,إصابة الأعصاب بالقرب من الكتف
+abdominal hernia,General Surgery,فتق البطن
+adjustment reaction,Psychiatry,رد فعل التكيف
+skin disorder,Dermatology,اضطراب الجلد
+aplastic anemia,Hematology,فقر دم لا تنسّجي
+testicular torsion,Urology,الالتواء الخصية
+hemophilia,Hematology,الهيموفيليا
+myasthenia gravis,Neurology,الوهن العضلي
+down syndrome,Pediatrics,متلازمة داون
+dental caries,Dentistry,تسوس الأسنان
+cellulitis or abscess of mouth,Dentistry,التهاب النسيج الخلوي أو خراج الفم
+epilepsy,Neurology,الصرع
+strep throat,ENT,حلق
+chronic rheumatic fever,Rheumatology,الحمى الروماتيزمية المزمنة
+burn,Plastic Surgery,يحرق
+conjunctivitis due to allergy,Ophthalmology,التهاب الملتحمة بسبب الحساسية
+erectile dysfunction,Urology,الضعف الجنسي لدى الرجال
+dislocation of the foot,Orthopedics,خلع القدم
+intestinal disease,Gastroenterology,مرض الأمعاء
+goiter,Endocrinology,تضخم الغدة الدرقية
+tonsillar hypertrophy,ENT,تضخم اللوز
+food allergy,Allergy,حساسية الطعام
+open wound of the ear,ENT,جرح مفتوح للأذن
+drug abuse (opioids),Psychiatry,تعاطي المخدرات (المواد الأفيونية)
+primary kidney disease,Nephrology,مرض الكلى الأولية
+gum disease,Dentistry,مرض في اللثة
+heart contusion,Cardiology,كدمة القلب
+gonorrhea,Gynecology,السيلان
+erythema multiforme,Dermatology,حمامي multiforme
+rheumatic fever,Rheumatology,الحمى الروماتيزمية
+marijuana abuse,Psychiatry,إساءة استخدام الماريجوانا
+noninfectious gastroenteritis,Gastroenterology,التهاب المعدة والأمعاء غير المعدي
+lichen simplex,Dermatology,lichen simplex
+acute kidney injury,Nephrology,إصابة الكلى الحادة
+pyloric stenosis,Gastroenterology,تضيق البواب
+open wound of the face,Plastic Surgery,الجرح المفتوح للوجه
+interstitial lung disease,Pulmonology,مرض الرئة الخلالي
+aspergillosis,Infectious Disease,داء الرشاشيات
+foreign body in the vagina,Gynecology,الجسم الغريب في المهبل
+metastatic cancer,Oncology,سرطان النقيلي
+human immunodeficiency virus infection (hiv),Infectious Disease,عدوى فيروس نقص المناعة البشرية (فيروس نقص المناعة البشرية)
+obsessive compulsive disorder (ocd),Psychiatry,الاضطراب القهري الوسواس (OCD)
+molluscum contagiosum,Dermatology,الرخوة contagiosum
+pulmonary hypertension,Pulmonology,ارتفاع ضغط الشريان الرئوي
+subconjunctival hemorrhage,Ophthalmology,نزيف دون جونكتال
+autism,Pediatrics,توحد
+oral leukoplakia,Dentistry,الكريات البيض عن طريق الفم
+drug abuse (cocaine),Psychiatry,تعاطي المخدرات (الكوكايين)
+heart attack,Cardiology,نوبة قلبية
+flu,Infectious Disease,الإنفلونزا
+anal fistula,Colorectal Surgery,ناسور الشرج
+urethritis,Urology,التهاب الإحليل
+hirschsprung disease,Pediatrics,مرض هيرشسبونج
+muscle spasm,Neurology,تشنّج عضلي
+chickenpox,Pediatrics,حُماق
+gas gangrene,General Surgery,غنغرينا الغاز
+sick sinus syndrome,Cardiology,متلازمة الجيوب الأنفية المريضة
+poisoning due to anticonvulsants,Emergency Medicine,التسمم بسبب مضادات الاختلاج
+nonalcoholic liver disease (nash),Gastroenterology,مرض الكبد غير الكحولي (ناش)
+poisoning due to antihypertensives,Emergency Medicine,التسمم بسبب مضادات الرحم
+rocky mountain spotted fever,Infectious Disease,حُمَّى الجِبالِ الصَّخْرِيَّةِ المُبَقَّعَة‎
+intussusception,Pediatrics,الغضب
+hepatitis due to a toxin,Gastroenterology,التهاب الكبد بسبب السم
+trichinosis,Infectious Disease,مرض دودة الخنزير
+dementia,Neurology,الخَرَف
+fluid overload,Nephrology,الزائد السائل
+cryptorchidism,Urology,cryptorchidism
+vulvar disorder,Gynecology,اضطراب الفرج
+amyotrophic lateral sclerosis (als),Neurology,التصلب الجانبي الضموري (ALS)
+blepharospasm,Ophthalmology,تشنج الجفن
+teething syndrome,Pediatrics,متلازمة التسنين
+ovarian cancer,Gynecology,سرطان المبيض
+drug reaction,Allergy,رد فعل المخدرات
+paroxysmal ventricular tachycardia,Cardiology,عدم انتظام دقات القلب البطيني
+dislocation of the hip,Orthopedics,خلع الورك
+rhabdomyolysis,Nephrology,تحلل rhabdomy
+genital herpes,Gynecology,الهربس التناسلي
+injury to internal organ,Trauma Surgery,إصابة العضو الداخلي
+otitis externa (swimmer's ear),ENT,التهاب الأذن الأمنية externa (أذن السباح)
+trichiasis,Ophthalmology,داء المشرب
+headache after lumbar puncture,Neurology,صداع بعد ثقب القطني
+temporary or benign blood in urine,Urology,دم مؤقت أو حميد في البول
+benign paroxysmal positional vertical (bppv),ENT,رأسي الموضعية الحميدة (BPPV)
+foreign body in the eye,Ophthalmology,الجسم الغريب في العين
+sarcoidosis,Pulmonology,الساركويد
+hyperosmotic hyperketotic state,Endocrinology,حالة فرط الفصوص الفائقة
+trigeminal neuralgia,Neurology,مثلث ثلاثي
+peripheral arterial embolism,Vascular Surgery,الانسداد الشرياني المحيطي
+somatization disorder,Psychiatry,اضطراب الجسد
+thoracic outlet syndrome,Orthopedics,متلازمة منفذ الصدر
+oppositional disorder,Psychiatry,اضطراب المعارضة
+alzheimer disease,Neurology,مرض الزهايمر
+kidney failure,Nephrology,الفشل الكلوي
+cushing syndrome,Endocrinology,متلازمة كوشينغ
+female genitalia infection,Gynecology,عدوى الأعضاء التناسلية الأنثوية
+moyamoya disease,Neurosurgery,مرض مويامويا
+spinal stenosis,Orthopedics,تضيق العمود الفقري
+viral hepatitis,Gastroenterology,التهاب الكبد الفيروسي
+sepsis,Infectious Disease,تعفن الدم
+open wound of the back,Orthopedics,الجرح المفتوح من الظهر
+chronic back pain,Orthopedics,آلام الظهر المزمنة
+head and neck cancer,Oncology,سرطان الرأس والرقبة
+toxic multinodular goiter,Endocrinology,تضخم الغدة الدرقية متعددة الأبعاد السامة
+acute otitis media,ENT,التهاب الأذن الوسطى الحاد
+endometrial hyperplasia,Gynecology,التضخم بطانة الرحم
+galactorrhea of unknown cause,Endocrinology,السيلول الجري لسبب غير معروف
+hyperkalemia,Nephrology,فرط بوتاسيوم الدم
+eustachian tube dysfunction (ear disorder),ENT,ضعف أنبوب يوستاتشي (اضطراب الأذن)
+dislocation of the elbow,Orthopedics,خلع الكوع
+hypocalcemia,Endocrinology,نقص كلس الدم
+diabetic kidney disease,Nephrology,مرض الكلى السكري
+atelectasis,Pulmonology,توسع
+temporomandibular joint disorder,Dentistry,اضطراب المفاصل الصدغي
+preeclampsia,Obstetrics,تسمم الحمل
+lateral epicondylitis (tennis elbow),Orthopedics,التهاب epicondylles الجانبي (كوع التنس)
+flat feet,Orthopedics,أقدام مسطحة
+problem during pregnancy,Obstetrics,مشكلة أثناء الحمل
+anemia,Hematology,فقر الدم
+pulmonary eosinophilia,Pulmonology,الحمضات الرئوية
+alopecia,Dermatology,ثعلبة
+premature atrial contractions (pacs),Cardiology,الانقباضات الأذينية المبكرة (PACS)
+croup,Pediatrics,مجموعة
+heat exhaustion,Emergency Medicine,استنفاد الحرارة
+breast cyst,Oncology,كيس الثدي
+fracture of the jaw,Plastic Surgery,كسر الفك
+colorectal cancer,Oncology,سرطان القولون والمستقيم
+sickle cell crisis,Hematology,أزمة الخلايا المنجلية
+urinary tract obstruction,Urology,انسداد المسالك البولية
+gastrointestinal hemorrhage,Gastroenterology,النزيف المعوي
+injury to the trunk,Trauma Surgery,إصابة الجذع
+turner syndrome,Endocrinology,متلازمة تيرنر
+diverticulitis,Gastroenterology,التهاب الرتج
+corneal disorder,Ophthalmology,اضطراب القرنية
+urethral valves,Urology,صمامات مجرى البول
+amyloidosis,Rheumatology,داء النشواني
+priapism,Urology,priapism
+perirectal infection,Colorectal Surgery,عدوى في انتصار
+chronic pancreatitis,Gastroenterology,التهاب البنكرياس المزمن
+adhesive capsulitis of the shoulder,Orthopedics,التهاب كبسولة لاصقة من الكتف
+hyperopia,Ophthalmology,مدّ البصر
+mononucleosis,Infectious Disease,أحادية النوى
+mastectomy,Oncology,استئصال الثدي
+rosacea,Dermatology,العُدّ الوردي
+orthostatic hypotension,Cardiology,انخفاض ضغط الدم الانتصابي
+hematoma,Trauma Surgery,ورم دموي
+esophagitis,Gastroenterology,التهاب المريء
+ingrown toe nail,Dermatology,مسمار إصبع القدم
+cirrhosis,Gastroenterology,تليف الكبد
+poisoning due to antimicrobial drugs,Emergency Medicine,التسمم بسبب الأدوية المضادة للميكروبات
+uterine fibroids,Gynecology,الليفية الرحم
+pilonidal cyst,General Surgery,كيس بري
+otitis media,ENT,التهاب الأذن الوسطى
+chronic glaucoma,Ophthalmology,الجلوكوما المزمنة
+cystic fibrosis,Pulmonology,تليّف كيسي
+lymphoma,Oncology,سرطان الغدد الليمفاوية
+open wound of the arm,Orthopedics,الجرح المفتوح للذراع
+open wound of the abdomen,General Surgery,الجرح المفتوح للبطن
+scleroderma,Rheumatology,الصلبة
+scurvy,Nutrition,الاسقربوط
+dysthymic disorder,Psychiatry,اضطراب dysthymic
+premature rupture of amniotic membrane,Obstetrics,تمزق مبكر من الغشاء الأمنيوسي
+cornea infection,Ophthalmology,عدوى القرنية
+kidney disease due to longstanding hypertension,Nephrology,مرض الكلى بسبب ارتفاع ضغط الدم الطويل
+vasculitis,Rheumatology,التهاب الأوعية الدموية
+sinus bradycardia,Cardiology,الجيوب الأنفية Bradycardia
+atrial flutter,Cardiology,رفرف الأذيني
+acne,Dermatology,حَبُّ الشّبَاب
+floaters,Ophthalmology,العوامات
+intracerebral hemorrhage,Neurosurgery,النزيف داخل المخ
+folate deficiency,Hematology,نقص حمض الفوليك
+spermatocele,Urology,الحيوانات المنوية
+reactive arthritis,Rheumatology,التهاب المفاصل التفاعلي
+atrophic skin condition,Dermatology,حالة الجلد ضمورة
+abscess of nose,ENT,خراج الأنف
+liver disease,Gastroenterology,مرض الكبد
+acute bronchiolitis,Pediatrics,التهاب الشعب الهوائية الحاد
+panic attack,Psychiatry,نوبة ذعر
+cryptococcosis,Infectious Disease,الشفرة
+polycythemia vera,Hematology,polycythemia vera
+uveitis,Ophthalmology,التهاب القزحية
+post-traumatic stress disorder (ptsd),Psychiatry,اضطراب ما بعد الصدمة (اضطراب ما بعد الصدمة)
+arthritis of the hip,Orthopedics,التهاب المفاصل من الورك
+overflow incontinence,Urology,تفوق السلس
+drug abuse,Psychiatry,تعاطي المخدرات
+thrombocytopenia,Hematology,قلة الصفيحات
+bipolar disorder,Psychiatry,اضطراب ذو اتجاهين
+pterygium,Ophthalmology,الظفرة
+foreign body in the gastrointestinal tract,Gastroenterology,الجسم الغريب في الجهاز الهضمي
+neurofibromatosis,Neurology,الورم العصبي العصبي
+thalassemia,Hematology,ثلاسيميا
+hypertrophic obstructive cardiomyopathy (hocm),Cardiology,اعتلال عضلة القلب الانسدادي الضخم (HOCM)
+attention deficit hyperactivity disorder (adhd),Psychiatry,اضطراب فرط النشاط في نقص الانتباه (ADHD)
+encephalitis,Neurology,التهاب الدماغ
+seborrheic keratosis,Dermatology,القرنية الدهنية
+pinworm infection,Pediatrics,عدوى الدودة
+fungal infection of the hair,Dermatology,العدوى الفطرية للشعر
+chronic constipation,Gastroenterology,الإمساك المزمن
+cervical cancer,Gynecology,سرطان عنق الرحم
+injury of the ankle,Orthopedics,إصابة الكاحل
+edward syndrome,Pediatrics,متلازمة إدوارد
+hypertension of pregnancy,Obstetrics,ارتفاع ضغط الدم من الحمل
+balanitis,Urology,التهاب بالان
+alcohol withdrawal,Psychiatry,انسحاب الكحول
+leukemia,Oncology,سرطان الدم
+blepharitis,Ophthalmology,التهاب الجفن
+pulmonary embolism,Pulmonology,الانسداد الرئوي
+mitral valve disease,Cardiology,مرض الصمام التاجي
+carpal tunnel syndrome,Orthopedics,متلازمة النفق الرسغي
+diverticulosis,Gastroenterology,التخلص من التهاب المفاصل
+conversion disorder,Psychiatry,اضطراب التحويل
+dislocation of the patella,Orthopedics,خلع الرضفة
+pain after an operation,General Surgery,ألم بعد العملية
+intracranial abscess,Neurosurgery,خراج داخل الجمجمة
+bunion,Orthopedics,ورم
+knee ligament or meniscus tear,Orthopedics,الرباط في الركبة أو الغضروف المفصلي المسيل للدموع
+pyogenic skin infection,Dermatology,عدوى الجلد البيني
+atrophy of the corpus cavernosum,Urology,ضمور كهف كورنوسوم
+lymphogranuloma venereum,Gynecology,Lymphogranuloma venereum
+presbyacusis,ENT,presbyacusis
+scoliosis,Orthopedics,الجنف
+gastroduodenal ulcer,Gastroenterology,قرحة المعدة
+toxoplasmosis,Infectious Disease,داء التوكسوبلازم
+narcolepsy,Neurology,ناروليبسي
+thyroid disease,Endocrinology,مرض الغدة الدرقية
+decubitus ulcer,Dermatology,قرحة Decubitus
+vesicoureteral reflux,Urology,ارتجاع الحويصات
+paronychia,Dermatology,بارنيا
+open wound from surgical incision,General Surgery,جرح مفتوح من شق الجراحية
+multiple myeloma,Oncology,ورم نقيي متعدد
+hypercholesterolemia,Cardiology,فرط كوليسترول الدم
+dislocation of the wrist,Orthopedics,خلع المعصم
+dry eye of unknown cause,Ophthalmology,جفاف العين لسبب غير معروف
+acute bronchitis,Pulmonology,التهاب الشعب الهوائية الحاد
+tooth abscess,Dentistry,خراج الأسنان
+fracture of the rib,Orthopedics,كسر الضلع
+congenital malformation syndrome,Pediatrics,متلازمة تشوه الخلقية
+fracture of the ankle,Orthopedics,كسر الكاحل
+injury to the hip,Orthopedics,إصابة الورك
+injury to the leg,Orthopedics,إصابة في الساق
+hypernatremia,Nephrology,فرط صوديوم الدم
+bladder obstruction,Urology,إعاقة المثانة
+systemic lupus erythematosis (sle),Rheumatology,مرض الذئبة الحمامية الجهازية (SLE)
+obstructive sleep apnea (osa),Pulmonology,توقف التنفس أثناء النوم (OSA)
+raynaud disease,Rheumatology,مرض رينود
+guillain barre syndrome,Neurology,متلازمة Guillain Barre
+foreign body in the nose,ENT,الجسم الغريب في الأنف
+histoplasmosis,Infectious Disease,داء الأهليزم
+fracture of the leg,Orthopedics,كسر الساق
+peripheral arterial disease,Vascular Surgery,مرض الشرايين المحيطية
+coagulation (bleeding) disorder,Hematology,اضطراب التخثر (النزيف)
+panic disorder,Psychiatry,اضطراب الهلع
+endometriosis,Gynecology,بطانة الرحم
+allergy to animals,Allergy,الحساسية للحيوانات
+friedrich ataxia,Neurology,فريدريتش Ataxia
+fracture of the arm,Orthopedics,كسر الذراع
+heat stroke,Emergency Medicine,السكتة الدماغية
+hydrocephalus,Neurosurgery,استسقاء الرأس
+pneumonia,Pulmonology,التهاب رئوي
+hemochromatosis,Gastroenterology,داء الدم
+open wound of the lip,Plastic Surgery,الجرح المفتوح للشفة
+neurosis,Psychiatry,العصبية
+abdominal aortic aneurysm,Vascular Surgery,تمدد الأوعية الدموية الأبهري
+infectious gastroenteritis,Gastroenterology,التهاب المعدة والأمعاء المعدية
+osteomyelitis,Orthopedics,التهاب العظم العظمي
+substance-related mental disorder,Psychiatry,الاضطراب العقلي المتعلق بالمواد
+congenital heart defect,Cardiology,عيب القلب الخلقي
+primary immunodeficiency,Immunology,نقص المناعة الأولية
+meckel diverticulum,Gastroenterology,ميكل رتج
+bell palsy,Neurology,شلل الجرس
+acute bronchospasm,Pulmonology,تشنج القصبي الحاد
+athlete's foot,Dermatology,قدم الرياضي
+primary insomnia,Psychiatry,الأرق الأساسي
+tuberous sclerosis,Neurology,التصلب العصبي
+epidural hemorrhage,Neurosurgery,النزيف فوق الجافية
+syphilis,Gynecology,مرض الزهري
+tic (movement) disorder,Neurology,الاضطراب (حركة الحركة)
+pituitary adenoma,Endocrinology,الورم الحميد الغدة النخامية
+open wound of the shoulder,Orthopedics,جرح مفتوح من الكتف
+vocal cord polyp,ENT,الحبل الصوتي polyp
+urge incontinence,Urology,حث السلس
+connective tissue disorder,Rheumatology,اضطراب الأنسجة الضامة
+dissociative disorder,Psychiatry,الاضطراب الانفصالي
+bursitis,Orthopedics,التهاب كيسي
+ectopic pregnancy,Obstetrics,الحمل خارج الرحم
+skin cancer,Dermatology,سرطان الجلد
+rheumatoid arthritis,Rheumatology,التهاب المفصل الروماتويدي
+kidney stone,Urology,حصاة كلوية
+threatened pregnancy,Obstetrics,الحمل المهددة
+multiple sclerosis,Neurology,تصلب متعدد
+diabetic peripheral neuropathy,Neurology,الاعتلال العصبي المحيطي السكري
+celiac disease,Gastroenterology,مرض الاضطرابات الهضمية
+skin polyp,Dermatology,البوليب الجلد
+actinic keratosis,Dermatology,القرنية الحاكمة
+orbital cellulitis,Ophthalmology,التهاب النسيج الخلوي المداري
+pseudohypoparathyroidism,Endocrinology,Pseudohyparathyroidism
+acute stress reaction,Psychiatry,رد فعل الإجهاد الحاد
+cataract,Ophthalmology,إعتام عدسة العين
+typhoid fever,Infectious Disease,حمى التيفوئيد
+colonic polyp,Gastroenterology,الاورام الحميدة القولونية
+hepatic encephalopathy,Gastroenterology,اعتلال الدماغ الكبدي
+central retinal artery or vein occlusion,Ophthalmology,شريان الشبكية المركزي أو انسداد الوريد
+conjunctivitis,Ophthalmology,التهاب الملتحمة
+head injury,Neurosurgery,"Translation Error: the JSON object must be str, bytes or bytearray, not NoneType"
+hyperhidrosis,Dermatology,فرط التعرق
+open wound of the eye,Ophthalmology,جرح مفتوح للعين
+peritonsillar abscess,ENT,خُراج حول اللوزة
+mononeuritis,Neurology,التهاب الأحجار
+infection of open wound,General Surgery,عدوى الجرح المفتوح
+gynecomastia,Endocrinology,التثدي
+benign kidney cyst,Urology,كيس الكلى الحميد
+hydrocele of the testicle,Urology,الهيدروكل من الخصية
+mittelschmerz,Gynecology,ألم متوسط
+essential tremor,Neurology,هزة أساسية
+pharyngitis,ENT,التهاب البلعوم
+herniated disk,Orthopedics,قرص فتق
+injury to the hand,Orthopedics,إصابة في اليد
+crohn disease,Gastroenterology,مرض كرون
+macular degeneration,Ophthalmology,تنكس البقعي
+lung contusion,Pulmonology,كدمة الرئة
+lymphangitis,Vascular Surgery,التهاب الليمفاوية
+hypertensive heart disease,Cardiology,مرض القلب ارتفاع ضغط الدم
+stomach cancer,Oncology,سرطان المعدة
+meningioma,Neurosurgery,ورم سحائي
+endometrial cancer,Gynecology,سرطان بطانة الرحم
+hashimoto thyroiditis,Endocrinology,التهاب الغدة الدرقية Hashimoto
+bone disorder,Orthopedics,اضطراب العظام
+open wound of the neck,Orthopedics,جرح مفتوح من الرقبة
+spondylitis,Orthopedics,التهاب الفقار
+pinguecula,Ophthalmology,الناس
+brain cancer,Oncology,سرطان الدماغ
+urethral stricture,Urology,تضيق مجرى البول
+cervicitis,Gynecology,التهاب عنق الرحم
+cysticercosis,Neurology,cysticerissis
+heart failure,Cardiology,سكتة قلبية
+heart block,Cardiology,كتلة القلب
+ependymoma,Oncology,ependymoma
+restless leg syndrome,Neurology,متلازمة الساق المضطربة
+malaria,Infectious Disease,ملاريا
+smoking or tobacco addiction,Psychiatry,التدخين أو إدمان التبغ
+hypoglycemia,Endocrinology,نقص السكر في الدم
+idiopathic nonmenstrual bleeding,Gynecology,مجهول السبب نزيف غير حيازي
+appendicitis,General Surgery,التهاب الزائدة الدودية
+indigestion,Gastroenterology,عسر الهضم
+spinocerebellar ataxia,Neurology,رنح Spinocerebellar
+pleural effusion,Pulmonology,الانصباب الجنبي
+injury to the face,Plastic Surgery,إصابة في الوجه
+open wound of the hand,Orthopedics,الجرح المفتوح لليد
+open wound of the chest,Thoracic Surgery,جرح مفتوح للصدر
+syringomyelia,Neurology,syringomyelia
+fracture of the foot,Orthopedics,كسر القدم
+empyema,Thoracic Surgery,إمبييم
+cholecystitis,Gastroenterology,التهاب المرارة
+open wound due to trauma,Trauma Surgery,الجرح المفتوح بسبب الصدمة
+alcohol intoxication,Emergency Medicine,تسمم الكحول
+hyperemesis gravidarum,Obstetrics,حامل Hyperemesis
+amblyopia,Ophthalmology,الحول
+epididymitis,Urology,التهاب البربخ
+abscess of the lung,Pulmonology,خراج الرئة
+nose disorder,ENT,اضطراب الأنف
+poisoning due to analgesics,Emergency Medicine,التسمم بسبب المسكنات
+ileus,Gastroenterology,الدقاق
+bone cancer,Oncology,سرطان العظام
+intestinal cancer,Oncology,سرطان الأمعاء
+gastritis,Gastroenterology,التهاب المعدة
+poisoning due to opioids,Emergency Medicine,التسمم بسبب المواد الأفيونية
+glucocorticoid deficiency,Endocrinology,نقص الجلوكورتيكويد
+magnesium deficiency,Endocrinology,نقص المغنيسيوم
+ischemic heart disease,Cardiology,أمراض القلب الإقفارية
+depression,Psychiatry,اكتئاب
+pneumothorax,Pulmonology,استرواح الصدر
+optic neuritis,Ophthalmology,التهاب الأعصاب البصري
+lipoma,Dermatology,الورم الشحمي
+anemia of chronic disease,Hematology,فقر الدم من الأمراض المزمنة
+torticollis,Orthopedics,Torticollis
+joint effusion,Orthopedics,انصباب المفصل
+vertebrobasilar insufficiency,Neurology,قصور الفقرات
+birth trauma,Obstetrics,صدمة الولادة
+cervical disorder,Gynecology,اضطراب عنق الرحم
+allergy,Allergy,حساسية
+vacterl syndrome,Pediatrics,متلازمة Vacterl
+idiopathic excessive menstruation,Gynecology,الحيض المفرط مجهول السبب
+hemiplegia,Neurology,فالج
+labyrinthitis,ENT,التهاب المتاهة
+phimosis,Urology,التصور
+meningitis,Neurology,التهاب السحايا
+kaposi sarcoma,Oncology,كابوسي ساركوما
+esophageal varices,Gastroenterology,دوالي المريء
+subarachnoid hemorrhage,Neurosurgery,نزيف تحت العنكبوتية
+drug abuse (methamphetamine),Psychiatry,تعاطي المخدرات (الميثامفيتامين)
+personality disorder,Psychiatry,اضطراب الشخصية
+impetigo,Dermatology,الانغماس
+diaper rash,Dermatology,طفح حفاضات
+missed abortion,Obstetrics,الإجهاض الفائت
+tietze syndrome,Orthopedics,متلازمة تيتز
+cat scratch disease,Infectious Disease,مرض خدش القط
+carbon monoxide poisoning,Emergency Medicine,التسمم بأول أكسيد الكربون
+vaginismus,Gynecology,المهبل
+idiopathic irregular menstrual cycle,Gynecology,دورة الحيض غير النظامية مجهول السبب
+myopia,Ophthalmology,قصر النظر
+fracture of the hand,Orthopedics,كسر اليد
+oral thrush (yeast infection),Dentistry,القلاع الفموي (عدوى الخميرة)
+tension headache,Neurology,صداع التوتر
+injury to the abdomen,Trauma Surgery,إصابة البطن
+mumps,Pediatrics,النكاف
+carcinoid syndrome,Oncology,متلازمة السرطانات
+zenker diverticulum,Gastroenterology,Zenker Deverticulum
+endophthalmitis,Ophthalmology,باطن باطن
+hpv,Gynecology,فيروس الورم الحليمي البشري
+open wound of the foot,Orthopedics,فتح الجرح من القدم
+ascending cholangitis,Gastroenterology,الصعود التهاب الكولانج
+achalasia,Gastroenterology,Achalasia
+uterine cancer,Gynecology,سرطان الرحم
+vitamin a deficiency,Nutrition,فيتامين أ نقص
+testicular cancer,Urology,سرطان الخصية
+white blood cell disease,Hematology,مرض خلايا الدم البيضاء
+lymphadenitis,Infectious Disease,التهاب الليمفاوية
+salivary gland disorder,ENT,اضطراب الغدة اللعابية
+poisoning due to ethylene glycol,Emergency Medicine,التسمم بسبب الإيثيلين جليكول
+dyshidrosis,Dermatology,dyshidrosis
+sporotrichosis,Infectious Disease,sporotrichosis
+protein deficiency,Nutrition,نقص البروتين
+hidradenitis suppurativa,Dermatology,التهاب الهادي
+fracture of the shoulder,Orthopedics,كسر الكتف
+contact dermatitis,Dermatology,الاتصال التهاب الجلد
+aortic valve disease,Cardiology,مرض الصمام الأبهري
+psoriasis,Dermatology,صدفية
+delirium,Psychiatry,هذيان
+melanoma,Dermatology,سرطان الجلد
+fungal infection of the skin,Dermatology,العدوى الفطرية للجلد
+lactose intolerance,Gastroenterology,التعصب لاكتوز
+ectropion,Ophthalmology,ectropion
+sensorineural hearing loss,ENT,فقدان السمع الحسي
+pemphigus,Dermatology,pemphigus
+lung cancer,Oncology,سرطان الرئة
+gestational diabetes,Obstetrics,مرض السكري الحمل
+gastroesophageal reflux disease (gerd),Gastroenterology,مرض الجزر المعدي المريئي (GERD)
+premature ventricular contractions (pvcs),Cardiology,تقلصات البطين المبكرة (PVCs)
+adrenal cancer,Oncology,سرطان الغدة الكظرية
+fibrocystic breast disease,Oncology,مرض الثدي الليفي
+factitious disorder,Psychiatry,اضطراب في الواقع
+injury to the arm,Orthopedics,إصابة الذراع
+tourette syndrome,Neurology,متلازمة توريت
+spondylosis,Orthopedics,داء الفقار
+ankylosing spondylitis,Rheumatology,التهاب الفقرات التصلبي
+pituitary disorder,Endocrinology,اضطراب الغدة النخامية
+injury to the knee,Orthopedics,إصابة في الركبة
+diabetic retinopathy,Ophthalmology,اعتلال الشبكية السكري
+corneal abrasion,Ophthalmology,تآكل القرنية
+acanthosis nigricans,Dermatology,nigricans dianthosis
+osteochondrosis,Orthopedics,العظم
+arrhythmia,Cardiology,عدم انتظام ضربات القلب
+injury to the spinal cord,Neurosurgery,إصابة الحبل الشوكي
+valley fever,Infectious Disease,حمى الوادي
+ovarian torsion,Gynecology,راتية المبيض
+wilson disease,Gastroenterology,مرض ويلسون
+cardiomyopathy,Cardiology,اعتلال عضلة القلب
+hemorrhoids,Colorectal Surgery,البواسير
+neuralgia,Neurology,الألم العصبي
+open wound of the head,Neurosurgery,جرح مفتوح من الرأس
+male genitalia infection,Urology,العدوى التناسلية الذكور
+retinal detachment,Ophthalmology,انفصال الشبكية
+emphysema,Pulmonology,انتفاخ الرئة
+chronic knee pain,Orthopedics,ألم في الركبة المزمن
+breast cancer,Oncology,سرطان الثدي
+choledocholithiasis,Gastroenterology,داء المقطوع
+cold sore,Dermatology,قرحة زكام
+acute sinusitis,ENT,التهاب الجيوب الأنفية الحاد
+de quervain disease,Orthopedics,من قبل مرض الكبرى
+shingles (herpes zoster),Dermatology,القوباء المنطقية (الهربس النطاقي)
+dislocation of the shoulder,Orthopedics,خلع الكتف
+lichen planus,Dermatology,بلانوس
+vulvodynia,Gynecology,vulvodynia
+idiopathic infrequent menstruation,Gynecology,الحيض النادر مجهول السبب
+high blood pressure,Cardiology,ضغط دم مرتفع
+stroke,Neurology,سكتة دماغية
+stress incontinence,Urology,سلس الإجهاد
+hypokalemia,Nephrology,نقص بوتاسيوم الدم
+acariasis,Dermatology,EME
+presbyopia,Ophthalmology,بريسبيوبيا
+esophageal cancer,Oncology,سرطان المريء
+intestinal obstruction,Gastroenterology,انسداد الأمعاء
+onychomycosis,Dermatology,onychomycosis
+foreign body in the throat,ENT,الجسم الغريب في الحلق
+thoracic aortic aneurysm,Vascular Surgery,تمدد الأوعية الأبهري الصدري
+concussion,Neurosurgery,ارتجاج
+vaginal cyst,Gynecology,كيس مهبلي
+g6pd enzyme deficiency,Hematology,G6PD نقص الإنزيم
+injury to the finger,Orthopedics,إصابة الإصبع
+syndrome of inappropriate secretion of adh (siadh),Endocrinology,متلازمة إفراز غير لائق لـ ADH (SIADH)
+lice,Dermatology,قمل
+huntington disease,Neurology,مرض هنتنغتون
+pelvic organ prolapse,Gynecology,هبوط العضو الحوض
+acute fatty liver of pregnancy (aflp),Obstetrics,الكبد الدهني الحاد من الحمل (AFLP)
+dislocation of the ankle,Orthopedics,خلع الكاحل
+open wound of the nose,ENT,جرح مفتوح للأنف
+viral warts,Dermatology,الثآليل الفيروسية
+broken tooth,Dentistry,الأسنان المكسورة
+pseudotumor cerebri,Neurology,الدماغ الكاذب
+myositis,Rheumatology,التهاب العضل
+pericarditis,Cardiology,التهاب التامور
+thyroid cancer,Oncology,سرطان الغدة الدرقية
+uterine atony,Obstetrics,atony الرحم
+meniere disease,ENT,مرض مينير
+hemarthrosis,Orthopedics,التهاب المفاصل
+volvulus,Gastroenterology,فولفولوس
+plantar fasciitis,Orthopedics,التهاب اللفافة الأخمصية
+degenerative disc disease,Orthopedics,مرض القرص التنكسي
+prostate cancer,Urology,سرطان البروستاتا
+kidney cancer,Oncology,سرطان الكلى
+spherocytosis,Hematology,كروية
+aphthous ulcer,Dentistry,قرحة قليلة
+primary thrombocythemia,Hematology,تخثر الدم الابتدائي
+persistent vomiting of unknown cause,Gastroenterology,القيء المستمر لسبب غير معروف
+aphakia,Ophthalmology,Aphakia
+tooth disorder,Dentistry,اضطراب الأسنان
+bladder disorder,Urology,اضطراب المثانة
+malignant hypertension,Cardiology,ارتفاع ضغط الدم الخبيث
+chronic obstructive pulmonary disease (copd),Pulmonology,مرض الانسداد الرئوي المزمن (مرض الانسداد الرئوي المزمن)
+vulvar cancer,Gynecology,سرطان الفرج
+granuloma inguinale,Gynecology,الورم الحبيبي inguinale
+psychosexual disorder,Psychiatry,الاضطراب النفسي الجنسي
+inguinal hernia,General Surgery,الفتق الإربي
+sialoadenitis,ENT,التهاب الغدة الدرقية
+tinnitus of unknown cause,ENT,طنينا لسبب غير معروف
+benign prostatic hyperplasia (bph),Urology,تضخم البروستاتا الحميدة (BPH)
+placental abruption,Obstetrics,المشيمة
+wernicke korsakoff syndrome,Neurology,متلازمة ويرنيك كورساكوف
+venous insufficiency,Vascular Surgery,قصور وريدي
+diabetes,Endocrinology,السكري
+spontaneous abortion,Obstetrics,الإجهاض التلقائي
+postpartum depression,Psychiatry,الاكتئاب بعد الولادة
+iridocyclitis,Ophthalmology,التهاب القزحية
+stye,Ophthalmology,stye
+tonsillitis,ENT,التهاب اللوزتين
+hemolytic anemia,Hematology,فقر الدم الانحلالي
+soft tissue sarcoma,Oncology,ساركوما الأنسجة الرخوة
+conductive hearing loss,ENT,فقدان السمع الموصل
+ischemia of the bowel,Gastroenterology,نقص تروية الأمعاء
+polycystic ovarian syndrome (pcos),Gynecology,متلازمة المبيض المتعدد الكيسات (PCOS)
+polycystic kidney disease,Nephrology,مرض الكلية متعددة الكيسات
+gallstone,Gastroenterology,حصاة صفراوية
+myelodysplastic syndrome,Hematology,متلازمة خلل التنسج النقوي
+asthma,Pulmonology,الربو
+lewy body dementia,Neurology,لوي الجسد الخرف
+chondromalacia of the patella,Orthopedics,chondromalacia من الرضفة
+peritonitis,General Surgery,التهاب الصفاق
+septic arthritis,Orthopedics,التهاب المفاصل الإنتان
+cranial nerve palsy,Neurology,الشلل العصبي القحفي
+rotator cuff injury,Orthopedics,إصابة الكفة المدورة
+angina,Cardiology,ذبحة
+hammer toe,Orthopedics,إصبع القدم المطرقة
+oral mucosal lesion,Dentistry,آفة مخاطية عن طريق الفم
+neuropathy due to drugs,Neurology,الاعتلال العصبي بسبب المخدرات
+drug poisoning due to medication,Emergency Medicine,التسمم بالمخدرات بسبب الدواء
+poisoning due to antipsychotics,Emergency Medicine,التسمم بسبب مضادات الذهان
+benign vaginal discharge (leukorrhea),Gynecology,إفرازات مهبلية حميدة (مرض اللوكي)
+rectal disorder,Colorectal Surgery,اضطراب المستقيم
+extrapyramidal effect of drugs,Neurology,التأثير الخارجي للأدوية
+impulse control disorder,Psychiatry,اضطراب التحكم في الاندفاع
+otosclerosis,ENT,تصلب الأذن
+ovarian cyst,Gynecology,كيس المبيض
+sprain or strain,Orthopedics,التواء أو إجهاد
+metabolic disorder,Endocrinology,اضطراب التمثيل الغذائي
+diabetic ketoacidosis,Endocrinology,داء الكيتون في مرض السكري
+sebaceous cyst,Dermatology,كيس سيباسي
+open wound of the jaw,Plastic Surgery,الجرح المفتوح من الفك
+cerebral palsy,Neurology,الشلل الدماغي
+omphalitis,Pediatrics,التهاب الأومفال
+breast infection (mastitis),Oncology,عدوى الثدي (التهاب الضرع)
+chronic otitis media,ENT,التهاب الأذن الوسطى المزمن
+alcohol abuse,Psychiatry,تعاطي الكحول
+anemia due to malignancy,Hematology,فقر الدم بسبب الورم الخبيث
+conjunctivitis due to virus,Ophthalmology,التهاب الملتحمة بسبب الفيروس
+hypovolemia,Emergency Medicine,نقص سليميا الدم
+peyronie disease,Urology,مرض بيروني
+lyme disease,Infectious Disease,مرض لايم
+chronic inflammatory demyelinating polyneuropathy (cidp),Neurology,اعتلال الأعصاب الالتهابي المزمن (CIDP)
+spina bifida,Neurosurgery,سبنا بايفيدا
+cyst of the eyelid,Ophthalmology,كيس الجفن
+chronic sinusitis,ENT,التهاب الجيوب الأنفية المزمن
+conjunctivitis due to bacteria,Ophthalmology,التهاب الملتحمة بسبب البكتيريا
+pyelonephritis,Urology,التهاب الحواجز
+dermatitis due to sun exposure,Dermatology,التهاب الجلد بسبب التعرض للشمس
+myocarditis,Cardiology,التهاب عضل القلب
+central atherosclerosis,Cardiology,تصلب الشرايين المركزية
+parathyroid adenoma,Endocrinology,ورم الغدة الدرقية
+common cold,ENT,زُكام
+lumbago,Orthopedics,Lumbago
